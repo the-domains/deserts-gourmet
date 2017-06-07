@@ -1,0 +1,99 @@
+typography_spectrum: 0.2946901228278875
+content_rating:
+  adult: false
+color:
+  lightness: 0.6859737915652743
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+  saturation: 0.3370567656441258
+  brandStrength: 0.5819193894467128
+  rhythmicContrast: 0.06399058226123233
+opengraph: {}
+layout_spectrum: 0.8477707817219198
+analytics:
+  google: UA-98775612-1
+author:
+  name: Deb Eilert
+  url: 'http://DessertsGourmet.mom'
+  email: DebsKeepsake@gmail.com
+name: 'Desserts Gourmet '
+navigation:
+  - name: Privacy Policy
+    id: 85717bcb-dfd0-4aec-90ae-98915866f2fe
+    type: content
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Desserts Gourmet
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66b52eb5-bf89-43ee-b7b9-f6348832aacc.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/66b52eb5-bf89-43ee-b7b9-f6348832aacc.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33665634-7608-4f38-89f6-be946f5b2865.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/33665634-7608-4f38-89f6-be946f5b2865.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Easy Dessert Seasoning packet
+purpose:
+  - type: contact
+    url: 'tel:3162146282'
+    label: Call (316) 214-6282
+  - type: external
+    url: 'https://www.etsy.com/shop/DebsKeepsa?ref=hdr_shop_menu'
+    label: To Order
+url: 'https://dessertsgourmet.mom'
+github: true
