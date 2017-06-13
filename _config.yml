@@ -116,5 +116,8 @@ purpose:
   - type: contact
     url: 'tel:3162146282'
     label: Call (316) 214-6282
+  - type: external
+    url: 'https://www.etsy.com/shop/PrettyNeatIdeas'
+    label: 'https://www.etsy.com/shop/PrettyNeatIdeas'
 url: 'https://dessertsgourmet.mom'
 github: true
