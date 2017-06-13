@@ -1,10 +1,10 @@
 ---
 publisher: {}
-datePublished: '2017-06-13T17:10:26.121Z'
-dateModified: '2017-06-13T17:10:25.398Z'
+datePublished: '2017-06-13T17:11:52.271Z'
+dateModified: '2017-06-13T17:11:51.310Z'
 via: {}
 description: Mocha Latte
-title: Mocha Latte Dessert / Pie / Frosting
+title: ''
 sourcePath: _posts/2017-04-14-mocha-lotte.md
 inFeed: true
 author: []
@@ -16,7 +16,7 @@ _type: Blurb
 Mocha Latte
 
 Mmmmm Iced mocha Latte! This hits the spot.
-![Just the right amount of flavor](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66b52eb5-bf89-43ee-b7b9-f6348832aacc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d94e6171-1287-496a-a382-2214a3e3c699.jpg)
 
 Try dipping an Oreo in this! Pure nirvana!!
 
