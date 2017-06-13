@@ -118,6 +118,6 @@ purpose:
     label: Call (316) 214-6282
   - type: external
     url: 'https://www.etsy.com/shop/PrettyNeatIdeas'
-    label: 'https://www.etsy.com/shop/PrettyNeatIdeas'
+    label: Order Here
 url: 'https://dessertsgourmet.mom'
 github: true
