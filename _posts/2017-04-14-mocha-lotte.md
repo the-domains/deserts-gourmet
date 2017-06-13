@@ -1,10 +1,10 @@
 ---
 publisher: {}
-datePublished: '2017-06-08T20:17:13.713Z'
-dateModified: '2017-06-08T20:17:13.242Z'
+datePublished: '2017-06-13T17:10:00.247Z'
+dateModified: '2017-06-13T17:09:59.603Z'
 via: {}
 description: Mocha Lotte
-title: Mocha Lotte Dessert / Pie / Frosting
+title: Mocha Latte Dessert / Pie / Frosting
 sourcePath: _posts/2017-04-14-mocha-lotte.md
 inFeed: true
 author: []
