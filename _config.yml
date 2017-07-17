@@ -24,11 +24,11 @@ author:
 name: 'Desserts Gourmet '
 url: 'https://dessertsgourmet.mom'
 navigation:
-  - name: Privacy Policy
-    id: 85717bcb-dfd0-4aec-90ae-98915866f2fe
-    type: content
   - name: Products
     id: 82e551ac-6951-4d12-af51-f10ff3eacb3a
+    type: content
+  - name: Privacy Policy
+    id: 85717bcb-dfd0-4aec-90ae-98915866f2fe
     type: content
 collections:
   - index:
